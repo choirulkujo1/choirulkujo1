@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @choirulkujo1
 - 👀 I’m interested in game
-- 🌱 I’m currently learning basic html, css and js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning basic python
 - 📫 How to reach me you can find me on instagram @choirulllanammm
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like girl who likes cat
 
 <!---
 choirulkujo1/choirulkujo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic python
 - 📫 How to reach me you can find me on instagram @choirulllanammm
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like girl who likes cat
+- ⚡ Fun fact: I like girl who likes cat, yeah it's yu jimin~
 
 <!---
 choirulkujo1/choirulkujo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
